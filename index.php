@@ -35,4 +35,6 @@
   display_tree($_SESSION['expanded']);
 
   do_html_footer();
+  echo "hello";
 ?>
+
